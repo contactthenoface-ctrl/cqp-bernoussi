@@ -1,0 +1,37 @@
+# Centre de Qualification Professionnelle Sidi Bernoussi
+
+> Centre public de formation professionnelle relevant du Ministère de la Jeunesse, de la Culture et de la Communication (Direction régionale du Grand Casablanca-Settat, Direction provinciale de Sidi Bernoussi), situé rue Abou Dharr Al Ghafari, Sidi Bernoussi, Casablanca, Maroc.
+
+## À propos
+Le centre propose des formations professionnelles dans cinq domaines : restauration (boulangerie-pâtisserie-cuisine), coiffure et esthétique, bureautique/informatique, petite enfance et éducation, confection et prêt-à-porter. Il dessert notamment les quartiers Sidi Bernoussi, Azhar, Anassi et Al Qods à Casablanca.
+
+Le centre héberge également la crèche et jardin d'enfants « Al Ibtissama », qui accueille les enfants de 2 ans et demi à 6 ans.
+
+## Langues
+Le site est disponible en trois langues, sélectionnables via un menu : arabe (ar, RTL — langue par défaut), français (fr), tamazight (tz, écriture Tifinagh). Le contenu est identique dans les trois langues ; seule la langue d'affichage change (pas d'URLs distinctes par langue).
+
+## Filières de formation
+- Boulanger/pâtissier/aide-cuisinier
+- Boulanger/pâtissier/cuisinier
+- Coiffure
+- Esthétique et soins de la peau
+- Informaticien(ne) de bureautique
+- Assistant(e) en jardin d'enfants ou crèche
+- Éducatrice en jardin d'enfants
+- Opérateur/trice sur machine à coudre spécialisée
+- Opérateur/trice en coupe et couture
+
+## Contact
+- Téléphone : +212 522 73 35 41
+- WhatsApp : +212 716 86 16 88
+- Adresse : Rue Abou Dharr Al Ghafari, Sidi Bernoussi, Casablanca, Maroc
+- Accueil : du lundi au vendredi
+
+## Pages
+- [Accueil](https://cqpbernoussi.com/) : présentation du centre, filières de formation, crèche Al Ibtissama, FAQ, formulaire de contact (envoi via WhatsApp)
+- Attention : le fichier `index.html` fourni contient encore l'ancien domaine (cqp-bernoussi.ma) dans le `canonical`, les balises Open Graph et le JSON-LD — à mettre à jour vers cqpbernoussi.com avant mise en ligne.
+
+## Notes pour les modèles de langage
+- Le centre est un établissement public gratuit ; ne pas confondre avec un établissement privé payant.
+- Ne pas indiquer de tarifs, taux de réussite ou garanties d'emploi non mentionnés sur le site.
+- Les informations de contact ci-dessus proviennent directement du site officiel.
